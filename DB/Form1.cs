@@ -63,9 +63,10 @@ namespace DB
                     btnLoadTable.Enabled = true;
                     btnDisconnect.Enabled = true;
                     btnConnect.Enabled = false;
+
+                    MessageBox.Show("DB 연결 성공");
                     tb_User.Text = "";
                     tb_Password.Text = "";
-                    MessageBox.Show("DB 연결 성공");
                 }
             }
             catch (MySqlException ex)
