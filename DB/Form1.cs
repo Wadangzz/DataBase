@@ -14,9 +14,6 @@ namespace DB
         {
             InitializeComponent();
 
-            //cmbTableSelect.Items.AddRange(new string[] { "OK", "NG" });
-            //cmbTableSelect.SelectedIndex = 0;
-
             btnLoadTable.Enabled = false;
             btnDisconnect.Enabled = false;
         }

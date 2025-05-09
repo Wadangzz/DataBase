@@ -93,7 +93,7 @@
             btnConnect.Name = "btnConnect";
             btnConnect.Size = new Size(153, 23);
             btnConnect.TabIndex = 5;
-            btnConnect.Text = "DB Connect";
+            btnConnect.Text = "Database Connect";
             btnConnect.UseVisualStyleBackColor = true;
             btnConnect.Click += button1_Click;
             // 
@@ -103,7 +103,7 @@
             btnDisconnect.Name = "btnDisconnect";
             btnDisconnect.Size = new Size(153, 23);
             btnDisconnect.TabIndex = 6;
-            btnDisconnect.Text = "DB Disconnect";
+            btnDisconnect.Text = "Database Disconnect";
             btnDisconnect.UseVisualStyleBackColor = true;
             btnDisconnect.Click += btnDisconnect_Click;
             // 
@@ -122,7 +122,7 @@
             btnLoadTable.Name = "btnLoadTable";
             btnLoadTable.Size = new Size(153, 24);
             btnLoadTable.TabIndex = 8;
-            btnLoadTable.Text = "DB Check";
+            btnLoadTable.Text = "Database Load";
             btnLoadTable.UseVisualStyleBackColor = true;
             btnLoadTable.Click += btnLoadTable_Click;
             // 
