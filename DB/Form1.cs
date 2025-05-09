@@ -101,6 +101,7 @@ namespace DB
             {
                 conn.Close();
                 isConnected = conn.State == ConnectionState.Closed;
+                dataGridView1.DataSource = null; // Clear the DataGridView
                 MessageBox.Show("DB ø¨∞· «ÿ¡¶µ .");
 
                 btnLoadTable.Enabled = false;
