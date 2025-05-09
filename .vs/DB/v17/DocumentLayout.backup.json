@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\DataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BEAA61-F00C-42C1-B330-3DCA215990F0}|DB\\DB.csproj|c:\\users\\user\\documents\\github\\database\\db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13BEAA61-F00C-42C1-B330-3DCA215990F0}|DB\\DB.csproj|solutionrelative:db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BEAA61-F00C-42C1-B330-3DCA215990F0}|DB\\DB.csproj|c:\\users\\user\\documents\\github\\database\\db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BEAA61-F00C-42C1-B330-3DCA215990F0}|DB\\DB.csproj|solutionrelative:db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\DataBase\\DB\\Form1.cs",
+              "RelativeDocumentMoniker": "DB\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\DataBase\\DB\\Form1.cs*",
+              "RelativeToolTip": "DB\\Form1.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:04:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\DataBase\\DB\\Form1.cs",
+              "RelativeDocumentMoniker": "DB\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\DataBase\\DB\\Form1.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "DB\\Form1.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:04:50.908Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
