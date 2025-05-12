@@ -24,6 +24,9 @@ namespace DB
             toolStripStatusLabel1.Text = DateTime.Now.ToString();
         }
 
+        // 로그인 버튼 클릭 시 DB 연결 시도
+        // 사용자 ID 및 비밀번호 유효성 검사
+        // 연결 성공 시 테이블 조회 및 연결 해제 버튼 활성화
         private void button1_Click(object sender, EventArgs e)
         {
             string user = tb_User.Text.Trim();
@@ -73,6 +76,7 @@ namespace DB
             }
         }
 
+        // 선택된 테이블의 모든 데이터를 조회하여 DataGridView에 표시
         private void LoadTable(string tableName)
         {
             try
@@ -95,6 +99,7 @@ namespace DB
             await StartPolling(tokenSource.Token);
         }
 
+        // DB 연결 해제
         private void btnDisconnect_Click(object sender, EventArgs e)
         {
             if (conn != null && isConnected)
@@ -110,6 +115,7 @@ namespace DB
             }
         }
 
+        // DropDown 테이블 목록을 조회
         private void btnLoadTable_Click(object sender, EventArgs e)
         {
             if (isConnected)
@@ -127,6 +133,7 @@ namespace DB
             }
         }
 
+        // 현재 시간 비동기로 표시
         private async Task StartPolling(CancellationToken token)
         {
             while (!token.IsCancellationRequested)
