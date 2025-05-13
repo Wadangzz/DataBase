@@ -1,4 +1,6 @@
 # 🗄️ DataBase
+![image](https://github.com/user-attachments/assets/00cb6d3c-0d99-4ce0-9aad-5d5a689b8ee7)
+
 
 ## 📘 프로젝트 개요
 
